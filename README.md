@@ -36,8 +36,8 @@ MRPT (and related libs) ROS build farm dashboard
 | Distro | Build dev | Build releases | Stable version |
 | ---    | ---       | ---            | ---         |
 | ROS 1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__mp2p_icp__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mp2p_icp__ubuntu_focal_amd64/) | - | - |
-| ROS 2 Humble (u22.04) |  | - | - |
-| ROS 2 Iron (u22.04) |  | - | - |
+| ROS 2 Humble (u22.04) | PR done | - | - |
+| ROS 2 Iron (u22.04) | PR done | - | - |
 | ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mp2p_icp__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mp2p_icp__ubuntu_jammy_amd64/) | - | - |
 
 ### mrpt_navigation
