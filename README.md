@@ -25,20 +25,20 @@ MRPT (and related libs) ROS build farm dashboard
 
 | Distro | Build dev | Build releases | Stable version |
 | ---    | ---       | ---            | ---         |
-| ROS 1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__mrpt_path_planning__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mrpt_path_planning__ubuntu_focal_amd64/) | - | - |
-| ROS 2 Humble (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mrpt_path_planning__ubuntu_jammy_amd64/) | - | - |
-| ROS 2 Iron (u22.04) | [![Build Status](https://build.ros2.org/job/Idev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mrpt_path_planning__ubuntu_jammy_amd64/) | - | - |
-| ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mrpt_path_planning__ubuntu_jammy_amd64/) | - | - |
+| ROS 1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__mrpt_path_planning__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mrpt_path_planning__ubuntu_focal_amd64/) | PR done | - |
+| ROS 2 Humble (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mrpt_path_planning__ubuntu_jammy_amd64/) | PR done | - |
+| ROS 2 Iron (u22.04) | [![Build Status](https://build.ros2.org/job/Idev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mrpt_path_planning__ubuntu_jammy_amd64/) | PR done | - |
+| ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mrpt_path_planning__ubuntu_jammy_amd64/) | PR done | - |
 
 
 ### mp2p_icp
 
 | Distro | Build dev | Build releases | Stable version |
 | ---    | ---       | ---            | ---         |
-| ROS 1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__mp2p_icp__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mp2p_icp__ubuntu_focal_amd64/) | - | - |
-| ROS 2 Humble (u22.04) | PR done | - | - |
-| ROS 2 Iron (u22.04) | PR done | - | - |
-| ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mp2p_icp__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mp2p_icp__ubuntu_jammy_amd64/) | - | - |
+| ROS 1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__mp2p_icp__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mp2p_icp__ubuntu_focal_amd64/) | PR done | - |
+| ROS 2 Humble (u22.04) | PR done | PR done | - |
+| ROS 2 Iron (u22.04) | PR done | PR done | - |
+| ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mp2p_icp__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mp2p_icp__ubuntu_jammy_amd64/) | PR done | - |
 
 ### mrpt_navigation
 
