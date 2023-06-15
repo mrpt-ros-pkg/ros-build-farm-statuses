@@ -22,9 +22,7 @@ MRPT (and related libs) ROS build farm dashboard
 
 
 ### mrpt_path_planning
-- Source: https://github.com/MRPT/mrpt_path_planning
-- ROS 1 release repo:https://github.com/mrpt-ros-pkg-release/mrpt_path_planning-release
-- ROS 2 release repo: https://github.com/ros2-gbp/mrpt_path_planning-release
+[Source](https://github.com/MRPT/mrpt_path_planning), [ROS 1 release repo](https://github.com/mrpt-ros-pkg-release/mrpt_path_planning-release), [ROS 2 release repo](https://github.com/ros2-gbp/mrpt_path_planning-release)
 
 | Distro | Build dev | Build releases | Stable version |
 | ---    | ---       | ---            | ---         |
