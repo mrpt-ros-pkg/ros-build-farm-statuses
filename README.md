@@ -1,8 +1,10 @@
 # ros-build-farm-statuses
+
 MRPT (and related libs) ROS build farm dashboard
 
-
 ### mrpt2
+
+Sources: https://github.com/MRPT/mrpt/
 
 | Distro | `develop` branch  | Stable release | Next builds |
 |---|---|---|---|
@@ -11,7 +13,18 @@ MRPT (and related libs) ROS build farm dashboard
 | ROS2 Iron @ u22.04 | [![Build Status](https://build.ros2.org/job/Idev__mrpt2__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mrpt2__ubuntu_jammy_amd64/) | [![Version](https://img.shields.io/ros/v/iron/mrpt2)](https://index.ros.org/search/?term=mrpt2) | [![Build Status](https://build.ros2.org/job/Ibin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Ibin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/) | 
 | ROS2 Rolling @ u22.04 | [![Build Status](https://build.ros2.org/job/Rdev__mrpt2__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mrpt2__ubuntu_jammy_amd64/) |  [![Version](https://img.shields.io/ros/v/rolling/mrpt2)](https://index.ros.org/search/?term=mrpt2) | [![Build Status](https://build.ros2.org/job/Rbin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/) | 
 
+### nanoflann 
+
+Sources: https://github.com/jlblancoc/nanoflann
+
+Shipped as:
+- Debian package: https://tracker.debian.org/pkg/nanoflann
+- Ubuntu package: https://launchpad.net/ubuntu/+source/nanoflann
+
+
 ### mvsim
+
+Sources: https://github.com/MRPT/mvsim
 
 | Distro | Build dev | Build releases | Stable version |
 | ---    | ---       | ---            | ---         |
