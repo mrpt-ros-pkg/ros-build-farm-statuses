@@ -5,6 +5,7 @@ MRPT (and related libs) ROS build farm dashboard
 ### mrpt2
 
 Sources: https://github.com/MRPT/mrpt/
+Documentation: https://docs.mrpt.org/reference/latest/
 
 | Distro | `develop` branch  | Stable release | Next builds |
 |---|---|---|---|
