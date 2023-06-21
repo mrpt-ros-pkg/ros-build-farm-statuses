@@ -3,9 +3,8 @@
 MRPT (and related libs) ROS build farm dashboard
 
 ### mrpt2
-
-Sources: https://github.com/MRPT/mrpt/
-Documentation: https://docs.mrpt.org/reference/latest/
+- Sources: https://github.com/MRPT/mrpt/
+- Documentation: https://docs.mrpt.org/reference/latest/
 
 | Distro | `develop` branch  | Stable release | Next builds |
 |---|---|---|---|
@@ -59,8 +58,8 @@ Sources: https://github.com/MOLAorg/mp2p_icp
 
 ### mrpt_navigation
 
-Sources: https://github.com/mrpt-ros-pkg/mrpt_navigation
-ROS wiki: https://wiki.ros.org/mrpt_navigation
+- Sources: https://github.com/mrpt-ros-pkg/mrpt_navigation
+- ROS wiki: https://wiki.ros.org/mrpt_navigation
 
 | Distro | Build dev | Build release | Stable sync |
 | --- | --- | --- | --- |
