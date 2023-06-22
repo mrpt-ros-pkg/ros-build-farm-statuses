@@ -39,7 +39,7 @@ Sources: https://github.com/MRPT/mvsim
 
 | Distro | Build dev | Build releases | Stable version |
 | ---    | ---       | ---            | ---         |
-| ROS 1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__mrpt_path_planning__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mrpt_path_planning__ubuntu_focal_amd64/) | PR done | - |
+| ROS 1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__mrpt_path_planning__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mrpt_path_planning__ubuntu_focal_amd64/) | [![Build Status](https://build.ros.org/job/Nbin_uF64__mrpt_path_planning__ubuntu_focal_amd64__binary/badge/icon)](https://build.ros.org/job/Nbin_uF64__mrpt_path_planning__ubuntu_focal_amd64__binary/) | - |
 | ROS 2 Humble (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mrpt_path_planning__ubuntu_jammy_amd64/) | PR done | - |
 | ROS 2 Iron (u22.04) | [![Build Status](https://build.ros2.org/job/Idev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mrpt_path_planning__ubuntu_jammy_amd64/) | PR done | - |
 | ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mrpt_path_planning__ubuntu_jammy_amd64/) | PR done | - |
