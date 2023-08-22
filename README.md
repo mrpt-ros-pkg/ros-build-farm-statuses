@@ -64,7 +64,9 @@ Sources: https://github.com/MOLAorg/mp2p_icp
 | Distro | Build dev | Build release | Stable sync |
 | --- | --- | --- | --- |
 | ROS1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__mrpt_navigation__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mrpt_navigation__ubuntu_focal_amd64/) |  [![Build Status](https://build.ros.org/job/Nbin_uF64__mrpt_navigation__ubuntu_focal_amd64__binary/badge/icon)](https://build.ros.org/job/Nbin_uF64__mrpt_navigation__ubuntu_focal_amd64__binary/) | [![Version](https://img.shields.io/ros/v/noetic/mrpt_navigation)](https://index.ros.org/search/?term=mrpt_navigation) |
-| ROS2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mrpt_navigation__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mrpt_navigation__ubuntu_jammy_amd64/) |  xxx | xxx |
+| ROS 2 Humble (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__mrpt_navigation__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mrpt_navigation__ubuntu_jammy_amd64/) |  TBD | [![Version](https://img.shields.io/ros/v/iron/mrpt_navigation)](https://index.ros.org/search/?term=mrpt_navigation) |
+| ROS 2 Iron (u22.04) | [![Build Status](https://build.ros2.org/job/Idev__mrpt_navigation__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mrpt_navigation__ubuntu_jammy_amd64/) |  TBD | [![Version](https://img.shields.io/ros/v/iron/mrpt_navigation)](https://index.ros.org/search/?term=mrpt_navigation) |
+| ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mrpt_navigation__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mrpt_navigation__ubuntu_jammy_amd64/) |  TBD | [![Version](https://img.shields.io/ros/v/rolling/mrpt_navigation)](https://index.ros.org/search/?term=mrpt_navigation) |
 
 ### mrpt_msgs
 
