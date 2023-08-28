@@ -51,10 +51,9 @@ Sources: https://github.com/MOLAorg/mp2p_icp
 
 | Distro | Build dev | Build releases | Stable version |
 | ---    | ---       | ---            | ---         |
-| ROS 1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__mp2p_icp__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mp2p_icp__ubuntu_focal_amd64/) | [![Build Status](https://build.ros.org/job/Nbin_uF64__mp2p_icp__ubuntu_focal_amd64__binary/badge/icon)](https://build.ros.org/job/Nbin_uF64__mp2p_icp__ubuntu_focal_amd64__binary/) | [![Version](https://img.shields.io/ros/v/noetic/mp2p_icp)](https://index.ros.org/search/?term=mp2p_icp) |
-| ROS 2 Humble (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__mp2p_icp__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mp2p_icp__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Hbin_uJ64__mp2p_icp__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Hbin_uJ64__mp2p_icp__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/humble/mp2p_icp)](https://index.ros.org/search/?term=mp2p_icp) |
-| ROS 2 Iron (u22.04) | [![Build Status](https://build.ros2.org/job/Idev__mp2p_icp__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mp2p_icp__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Ibin_uJ64__mp2p_icp__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Ibin_uJ64__mp2p_icp__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/iron/mp2p_icp)](https://index.ros.org/search/?term=mp2p_icp) |
-| ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mp2p_icp__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mp2p_icp__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Rbin_uJ64__mp2p_icp__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uJ64__mp2p_icp__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/rolling/mp2p_icp)](https://index.ros.org/search/?term=mp2p_icp) |
+| ROS 1 Noetic (u20.04) | Not anymore | [![Build Status](https://build.ros.org/job/Nbin_uF64__mp2p_icp__ubuntu_focal_amd64__binary/badge/icon)](https://build.ros.org/job/Nbin_uF64__mp2p_icp__ubuntu_focal_amd64__binary/) | [![Version](https://img.shields.io/ros/v/noetic/mp2p_icp)](https://index.ros.org/search/?term=mp2p_icp) |
+
+This is now a MOLA subpackage (see below).
 
 ### mrpt_navigation
 
@@ -117,12 +116,19 @@ https://github.com/MOLAorg/mola
 [![CircleCI](https://img.shields.io/circleci/build/gh/MOLAorg/mola/develop.svg)](https://circleci.com/gh/MOLAorg/mola)
 [![Docs](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://docs.mola-slam.org/latest/)
 
-| Distro | Build dev | Build release | Stable sync |
-| --- | --- | --- | --- |
-| ROS 2 Humble (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__mola__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mola__ubuntu_jammy_amd64/) |  TBD | [![Version](https://img.shields.io/ros/v/iron/mola)](https://index.ros.org/search/?term=mola) |
-| ROS 2 Iron (u22.04) | [![Build Status](https://build.ros2.org/job/Idev__mola__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mola__ubuntu_jammy_amd64/) |  TBD | [![Version](https://img.shields.io/ros/v/iron/mola)](https://index.ros.org/search/?term=mola) |
-| ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mola__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mola__ubuntu_jammy_amd64/) |  TBD | [![Version](https://img.shields.io/ros/v/rolling/mola)](https://index.ros.org/search/?term=mola) |
+| Distro | Build dev |
+| --- | --- |
+| ROS 2 Humble (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__mola__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mola__ubuntu_jammy_amd64/) |
+| ROS 2 Iron (u22.04) | [![Build Status](https://build.ros2.org/job/Idev__mola__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mola__ubuntu_jammy_amd64/) |
+| ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mola__ubuntu_jammy_amd64/badge/icon)] |
 
+#### MOLA packages (ROS 2 Rolling)
+
+| Package | BinBuild | Release |
+| --- | --- | --- |
+| mola_common | [![Build Status](https://build.ros2.org/job/Rbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/rolling/mp2p_icp)](https://index.ros.org/search/?term=mola_common) |
+| mola_yaml | [![Build Status](https://build.ros2.org/job/Rbin_uJ64__mola_yaml__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uJ64__mola_yaml__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/rolling/mp2p_icp)](https://index.ros.org/search/?term=mola_yaml) |
+| mp2p_icp | [![Build Status](https://build.ros2.org/job/Rbin_uJ64__mp2p_icp__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uJ64__mp2p_icp__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/rolling/mp2p_icp)](https://index.ros.org/search/?term=mp2p_icp) |
 
 
 ### gtsam
