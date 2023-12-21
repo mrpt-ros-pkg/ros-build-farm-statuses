@@ -44,6 +44,16 @@ Sources: https://github.com/MRPT/mvsim
 | ROS 2 Iron (u22.04) | [![Build Status](https://build.ros2.org/job/Idev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mrpt_path_planning__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Ibin_uJ64__mrpt_path_planning__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Ibin_uJ64__mrpt_path_planning__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/iron/mrpt_path_planning)](https://index.ros.org/search/?term=mrpt_path_planning) |
 | ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mrpt_path_planning__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mrpt_path_planning__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Hbin_uJ64__mrpt_path_planning__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Hbin_uJ64__mrpt_path_planning__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/rolling/mrpt_path_planning)](https://index.ros.org/search/?term=mrpt_path_planning) |
 
+### mola_common
+
+Sources: https://github.com/MOLAorg/mola_common
+
+| Distro | Build dev | Build releases | Stable version |
+| ---    | ---       | ---            | ---         |
+| ROS 2 Humble (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__mola_common__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mola_common__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Hbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Hbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/humble/mola_common)](https://index.ros.org/search/?term=mola_common) |
+| ROS 2 Iron (u22.04) | [![Build Status](https://build.ros2.org/job/Idev__mola_common__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mola_common__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Ibin_uJ64__mola_common__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Ibin_uJ64__mola_common__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/iron/mola_common)](https://index.ros.org/search/?term=mola_common) |
+| ROS 2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mola_common__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mola_common__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Rbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/rolling/mola_common)](https://index.ros.org/search/?term=mola_common) |
+
 
 ### mp2p_icp
 
