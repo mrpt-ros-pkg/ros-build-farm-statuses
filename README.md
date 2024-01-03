@@ -2,6 +2,26 @@
 
 MRPT (and related libs) ROS build farm dashboard
 
+<!-- toc -->
+
+- [mrpt2](#mrpt2)
+- [nanoflann](#nanoflann)
+- [mvsim](#mvsim)
+- [mrpt_path_planning](#mrpt_path_planning)
+- [mola_common](#mola_common)
+- [mp2p_icp](#mp2p_icp)
+- [mrpt_navigation](#mrpt_navigation)
+- [mrpt_msgs](#mrpt_msgs)
+- [mrpt_slam](#mrpt_slam)
+- [pose_cov_ops](#pose_cov_ops)
+- [mrpt_sensors](#mrpt_sensors)
+- [mola_common](#mola_common-1)
+- [MOLA](#mola)
+  * [MOLA binary packages](#mola-binary-packages)
+- [gtsam](#gtsam)
+
+<!-- tocstop -->
+
 ### mrpt2
 - Sources: https://github.com/MRPT/mrpt/
 - Documentation: https://docs.mrpt.org/reference/latest/
