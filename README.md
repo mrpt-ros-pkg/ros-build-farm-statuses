@@ -115,7 +115,7 @@ Sources: https://github.com/mrpt-ros-pkg/mrpt_msgs
 
 Sources: https://github.com/mrpt-ros-pkg/mrpt_slam
 
-| Distro | Build dev | Build release | Stable sync |
+| Distro | Build dev | Build release | Stable release |
 | --- | --- | --- | --- |
 |  ROS1 Noetic @ u20.04 | [![Build Status](https://build.ros.org/job/Ndev__mrpt_slam__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mrpt_slam__ubuntu_focal_amd64/) | [![Build Status](https://build.ros.org/job/Nbin_uF64__mrpt_slam__ubuntu_focal_amd64__binary/badge/icon)](https://build.ros.org/job/Nbin_uF64__mrpt_slam__ubuntu_focal_amd64__binary/) | [![Version](https://img.shields.io/ros/v/noetic/mrpt_slam)](https://index.ros.org/search/?term=mrpt_slam) |
 
@@ -125,7 +125,7 @@ Non-maintained for ROS 2 (volunteers? ;-).
 
 Sources: https://github.com/mrpt-ros-pkg/pose_cov_ops
 
-| Distro | Develop branch | Releases | Last Sync |
+| Distro | Develop branch | Releases | Stable release |
 | ---    | ---            | ---      |  ---      |
 | ROS1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__pose_cov_ops__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__pose_cov_ops__ubuntu_focal_amd64/) | [![Build Status](https://build.ros.org/job/Nbin_uF64__pose_cov_ops__ubuntu_focal_amd64__binary/badge/icon)](https://build.ros.org/job/Nbin_uF64__pose_cov_ops__ubuntu_focal_amd64__binary/)  | [![Version](https://img.shields.io/ros/v/noetic/pose_cov_ops)](https://index.ros.org/search/?term=pose_cov_ops) |
 | ROS2 Humble  (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__pose_cov_ops__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__pose_cov_ops__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Hbin_uJ64__pose_cov_ops__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Hbin_uJ64__pose_cov_ops__ubuntu_jammy_amd64__binary/)  | [![Version](https://img.shields.io/ros/v/humble/pose_cov_ops)](https://index.ros.org/search/?term=pose_cov_ops) |
@@ -135,16 +135,27 @@ Sources: https://github.com/mrpt-ros-pkg/pose_cov_ops
 
 ### mrpt_sensors
 
-| Distro | Build dev | Build release | Stable sync |
+[Sources](https://github.com/mrpt-ros-pkg/mrpt_sensors/)
+
+| Distro | Build dev | Build release | Stable release |
+| --- | --- | --- | --- |
+| ROS2 Humble (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__mrpt_sensors__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mrpt_sensors__ubuntu_jammy_amd64/) |  xxx | xxx |
+| ROS2 Iron (u22.04) | [![Build Status](https://build.ros2.org/job/Idev__mrpt_sensors__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mrpt_sensors__ubuntu_jammy_amd64/) |  xxx | xxx |
+| ROS2 Rolling (u24.04) | [![Build Status](https://build.ros2.org/job/Rdev__mrpt_sensors__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mrpt_sensors__ubuntu_jammy_amd64/) |  xxx | xxx |
+
+Not developed anymore:
+
+| Distro | Build dev | Build release | Stable release |
 | --- | --- | --- | --- |
 | ROS1 Noetic (u20.04) | [![Build Status](https://build.ros.org/job/Ndev__mrpt_sensors__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mrpt_sensors__ubuntu_focal_amd64/) | [![Build Status](https://build.ros.org/job/Nbin_uF64__mrpt_sensors__ubuntu_focal_amd64__binary/badge/icon)](https://build.ros.org/job/Nbin_uF64__mrpt_sensors__ubuntu_focal_amd64__binary/) | [![Version](https://img.shields.io/ros/v/noetic/mrpt_sensors)](https://index.ros.org/search/?term=mrpt_sensors) |
-| ROS2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mrpt_sensors__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mrpt_sensors__ubuntu_jammy_amd64/) |  xxx | xxx |
+
+
 
 ### mola_common
 
 https://github.com/MOLAorg/mola_common
 
-| Distro | Develop branch | Releases | Last Sync |
+| Distro | Develop branch | Releases | Stable release |
 | ---    | ---            | ---      |  ---      |
 | ROS2 Humble  (u22.04) |  [![Build Status](https://build.ros2.org/job/Hdev__mola_common__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mola_common__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Hbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Hbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/)  | [![Version](https://img.shields.io/ros/v/humble/mola_common)](https://index.ros.org/search/?term=mola_common) |
 | ROS2 Iron  (u22.04)   |  [![Build Status](https://build.ros2.org/job/Idev__mola_common__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mola_common__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Ibin_uJ64__mola_common__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Ibin_uJ64__mola_common__ubuntu_jammy_amd64__binary/)  | [![Version](https://img.shields.io/ros/v/iron/mola_common)](https://index.ros.org/search/?term=mola_common) |
