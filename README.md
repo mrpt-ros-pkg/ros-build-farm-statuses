@@ -15,7 +15,7 @@ MRPT (and related libs) ROS build farm dashboard
 - [mrpt_slam](#mrpt_slam)
 - [pose_cov_ops](#pose_cov_ops)
 - [mrpt_sensors](#mrpt_sensors)
-- [mola_common](#mola_common-1)
+- [mola_common](#mola_common)
 - [MOLA](#mola)
   * [MOLA binary packages](#mola-binary-packages)
 - [gtsam](#gtsam)
@@ -170,7 +170,7 @@ https://github.com/MOLAorg/mola_common
 | ---    | ---            | ---      |  ---      |
 | ROS2 Humble  (u22.04) |  [![Build Status](https://build.ros2.org/job/Hdev__mola_common__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mola_common__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Hbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Hbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/)  | [![Version](https://img.shields.io/ros/v/humble/mola_common)](https://index.ros.org/search/?term=mola_common) |
 | ROS2 Iron  (u22.04)   |  [![Build Status](https://build.ros2.org/job/Idev__mola_common__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mola_common__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Ibin_uJ64__mola_common__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Ibin_uJ64__mola_common__ubuntu_jammy_amd64__binary/)  | [![Version](https://img.shields.io/ros/v/iron/mola_common)](https://index.ros.org/search/?term=mola_common) |
-| ROS2 Rolling (u22.04) | [![Build Status](https://build.ros2.org/job/Rdev__mola_common__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mola_common__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Rbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uJ64__mola_common__ubuntu_jammy_amd64__binary/)  | [![Version](https://img.shields.io/ros/v/rolling/mola_common)](https://index.ros.org/search/?term=mola_common) |
+| ROS 2 Rolling (u24.04) | [![Build Status](https://build.ros2.org/job/Rdev__mola_common__ubuntu_noble_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mola_common__ubuntu_noble_amd64/) | [![Build Status](https://build.ros2.org/job/Rbin_uN64__mola_common__ubuntu_noble_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uN64__mola_common__ubuntu_noble_amd64__binary/) | [![Version](https://img.shields.io/ros/v/rolling/mola_common)](https://index.ros.org/search/?term=mola_common) |
 
 
 
