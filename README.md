@@ -22,17 +22,28 @@ MRPT (and related libs) ROS build farm dashboard
 
 <!-- tocstop -->
 
-### mrpt2
+### mrpt2 (Deprecated, Jul 2024)
 - Sources: https://github.com/MRPT/mrpt/
 - Documentation: https://docs.mrpt.org/reference/latest/
 
 | Distro | `develop` branch  | Next builds | Stable release |
 |---|---|---|---|
 | ROS 1 Noetic @ u20.04 | [![Build Status](https://build.ros.org/job/Ndev__mrpt2__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mrpt2__ubuntu_focal_amd64/) |  [![Build Status](https://build.ros.org/job/Nbin_uF64__mrpt2__ubuntu_focal_amd64__binary/badge/icon)](https://build.ros.org/job/Nbin_uF64__mrpt2__ubuntu_focal_amd64__binary/) | [![Version](https://img.shields.io/ros/v/noetic/mrpt2)](https://index.ros.org/search/?term=mrpt2) |
-| ROS 2 Humble @ u22.04 | [![Build Status](https://build.ros2.org/job/Hdev__mrpt2__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__mrpt2__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Hbin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Hbin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/) |  [![Version](https://img.shields.io/ros/v/humble/mrpt2)](https://index.ros.org/search/?term=mrpt2) | 
-| ROS 2 Iron @ u22.04 | [![Build Status](https://build.ros2.org/job/Idev__mrpt2__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__mrpt2__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Ibin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Ibin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/iron/mrpt2)](https://index.ros.org/search/?term=mrpt2) | 
-| ROS 2 Jazzy @ u24.04 | [![Build Status](https://build.ros2.org/job/Jdev__mrpt2__ubuntu_noble_amd64/badge/icon)](https://build.ros2.org/job/Jdev__mrpt2__ubuntu_noble_amd64/) | [![Build Status](https://build.ros2.org/job/Jbin_uN64__mrpt2__ubuntu_noble_amd64__binary/badge/icon)](https://build.ros2.org/job/Jbin_uN64__mrpt2__ubuntu_noble_amd64__binary/) | [![Version](https://img.shields.io/ros/v/jazzy/mrpt2)](https://index.ros.org/search/?term=mrpt2) | 
-| ROS 2 Rolling @ u24.04 | [![Build Status](https://build.ros2.org/job/Rdev__mrpt2__ubuntu_noble_amd64/badge/icon)](https://build.ros2.org/job/Rdev__mrpt2__ubuntu_noble_amd64/) | [![Build Status](https://build.ros2.org/job/Rbin_uN64__mrpt2__ubuntu_noble_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uN64__mrpt2__ubuntu_noble_amd64__binary/) | [![Version](https://img.shields.io/ros/v/rolling/mrpt2)](https://index.ros.org/search/?term=mrpt2) |
+| ROS 2 Humble @ u22.04 | - | [![Build Status](https://build.ros2.org/job/Hbin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Hbin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/) |  [![Version](https://img.shields.io/ros/v/humble/mrpt2)](https://index.ros.org/search/?term=mrpt2) | 
+| ROS 2 Iron @ u22.04 | - | [![Build Status](https://build.ros2.org/job/Ibin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Ibin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/iron/mrpt2)](https://index.ros.org/search/?term=mrpt2) | 
+| ROS 2 Jazzy @ u24.04 | - | [![Build Status](https://build.ros2.org/job/Jbin_uN64__mrpt2__ubuntu_noble_amd64__binary/badge/icon)](https://build.ros2.org/job/Jbin_uN64__mrpt2__ubuntu_noble_amd64__binary/) | [![Version](https://img.shields.io/ros/v/jazzy/mrpt2)](https://index.ros.org/search/?term=mrpt2) | 
+| ROS 2 Rolling @ u24.04 | - | [![Build Status](https://build.ros2.org/job/Rbin_uN64__mrpt2__ubuntu_noble_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uN64__mrpt2__ubuntu_noble_amd64__binary/) | [![Version](https://img.shields.io/ros/v/rolling/mrpt2)](https://index.ros.org/search/?term=mrpt2) |
+
+### mrpt_ros
+- Sources: https://github.com/MRPT/mrpt_ros
+
+Write me!
+
+### python_mrpt_ros
+- Sources: https://github.com/MRPT/python_mrpt_ros
+
+Write me!
+
 
 ### nanoflann 
 
