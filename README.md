@@ -22,7 +22,10 @@ MRPT (and related libs) ROS build farm dashboard
 
 <!-- tocstop -->
 
-### mrpt2 (Deprecated, Jul 2024)
+### mrpt2
+- **ROS packaging deprecated as of Jul 2024**
+- Replace by: mrpt_ros packages (see below)
+
 - Sources: https://github.com/MRPT/mrpt/
 - Documentation: https://docs.mrpt.org/reference/latest/
 
