@@ -312,7 +312,7 @@ Sources: https://github.com/borglab/gtsam/
 | ROS 1 Noetic @ u20.04 | [![Build Status](https://build.ros.org/job/Nbin_uF64__mrpt2__ubuntu_focal_amd64__binary/badge/icon)](https://build.ros.org/job/Nbin_uF64__mrpt2__ubuntu_focal_amd64__binary/) | [![Version](https://img.shields.io/ros/v/noetic/mrpt2)](https://index.ros.org/search/?term=mrpt2) |
 | ROS 2 Humble @ u22.04 |  Removed  |  [![Version](https://img.shields.io/ros/v/humble/mrpt2)](https://index.ros.org/search/?term=mrpt2) | 
 | ROS 2 Iron @ u22.04 |  [![Build Status](https://build.ros2.org/job/Ibin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Ibin_uJ64__mrpt2__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/iron/mrpt2)](https://index.ros.org/search/?term=mrpt2) | 
-| ROS 2 Jazzy @ u24.04 |  Removed  | [![Version](https://img.shields.io/ros/v/jazzy/mrpt2)](https://index.ros.org/search/?term=mrpt2) | 
-| ROS 2 Rolling @ u24.04 | Removed | [![Version](https://img.shields.io/ros/v/rolling/mrpt2)](https://index.ros.org/search/?term=mrpt2) |
+| ROS 2 Jazzy @ u24.04 |  Removed  |  | 
+| ROS 2 Rolling @ u24.04 | Removed |  |
 
 
