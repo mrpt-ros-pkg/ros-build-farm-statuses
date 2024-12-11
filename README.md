@@ -23,6 +23,7 @@ MRPT (and related libs) ROS build farm dashboard
 <!-- tocstop -->
 ### mrpt_ros
 - Sources: https://github.com/MRPT/mrpt_ros
+
 | Distro | Build dev | Release |
 | --- | --- | --- |
 | ROS 1 Noetic @ u20.04 | [![Build Status](https://build.ros.org/job/Ndev__mrpt_ros__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__mrpt_ros__ubuntu_focal_amd64/) |  [![Version](https://img.shields.io/ros/v/noetic/mrpt_ros)](https://index.ros.org/search/?term=mrpt_ros) |
