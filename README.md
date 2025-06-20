@@ -374,11 +374,15 @@ Sources: https://github.com/borglab/gtsam/
 
 | ROS distro | develop CI | Next build CI | Stable release |
 |---|---|---|---|
-| ROS 1 Noetic |  [![Build Status](https://build.ros.org/job/Ndev__gtsam__ubuntu_focal_amd64/badge/icon)](https://build.ros.org/job/Ndev__gtsam__ubuntu_focal_amd64/) | [![Build Status](https://build.ros.org/job/Nbin_uF64__gtsam__ubuntu_focal_amd64__binary/badge/icon)](https://build.ros.org/job/Nbin_uF64__gtsam__ubuntu_focal_amd64__binary/) | [![Version](https://img.shields.io/ros/v/noetic/gtsam)](https://index.ros.org/search/?term=gtsam) |
 | ROS 2 Humble | [![Build Status](https://build.ros2.org/job/Hdev__gtsam__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__gtsam__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Hbin_uJ64__gtsam__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Hbin_uJ64__gtsam__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/humble/gtsam)](https://index.ros.org/search/?term=gtsam) | 
-| ROS 2 Iron | [![Build Status](https://build.ros2.org/job/Idev__gtsam__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Idev__gtsam__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Ibin_uJ64__gtsam__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Ibin_uJ64__gtsam__ubuntu_jammy_amd64__binary/) | [![Version](https://img.shields.io/ros/v/iron/gtsam)](https://index.ros.org/search/?term=gtsam) |
 | ROS 2 Jazzy @ u24.04 | [![Build Status](https://build.ros2.org/job/Jdev__gtsam__ubuntu_noble_amd64/badge/icon)](https://build.ros2.org/job/Jdev__gtsam__ubuntu_noble_amd64/) | [![Build Status](https://build.ros2.org/job/Jbin_uN64__gtsam__ubuntu_noble_amd64__binary/badge/icon)](https://build.ros2.org/job/Jbin_uN64__gtsam__ubuntu_noble_amd64__binary/) | [![Version](https://img.shields.io/ros/v/jazzy/gtsam)](https://index.ros.org/search/?term=gtsam) | 
+| ROS 2 Kilted @ u24.04 | [![Build Status](https://build.ros2.org/job/Kdev__gtsam__ubuntu_noble_amd64/badge/icon)](https://build.ros2.org/job/Kdev__gtsam__ubuntu_noble_amd64/) | [![Build Status](https://build.ros2.org/job/Kbin_uN64__gtsam__ubuntu_noble_amd64__binary/badge/icon)](https://build.ros2.org/job/Kbin_uN64__gtsam__ubuntu_noble_amd64__binary/) | [![Version](https://img.shields.io/ros/v/kilted/gtsam)](https://index.ros.org/search/?term=gtsam) | 
 | ROS 2 Rolling | [![Build Status](https://build.ros2.org/job/Rdev__gtsam__ubuntu_noble_amd64/badge/icon)](https://build.ros2.org/job/Rdev__gtsam__ubuntu_noble_amd64/) | [![Build Status](https://build.ros2.org/job/Rbin_uN64__gtsam__ubuntu_noble_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uN64__gtsam__ubuntu_noble_amd64__binary/) | [![Version](https://img.shields.io/ros/v/rolling/gtsam)](https://index.ros.org/search/?term=gtsam) |
+
+| EOL ROS distro | Last stable release |
+|---|---|
+| ROS 1 Noetic |  [![Version](https://img.shields.io/ros/v/noetic/gtsam)](https://index.ros.org/search/?term=gtsam) |
+| ROS 2 Iron | [![Version](https://img.shields.io/ros/v/iron/gtsam)](https://index.ros.org/search/?term=gtsam) |
 
 
 
