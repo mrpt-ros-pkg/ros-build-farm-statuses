@@ -24,6 +24,28 @@ MRPT (and related libs) ROS build farm dashboard
 - [gtsam](#gtsam)
 
 <!-- tocstop -->
+
+### nanoflann
+
+https://github.com/jlblancoc/nanoflann/
+
+[![CI Linux](https://github.com/jlblancoc/nanoflann/actions/workflows/ci-linux.yml/badge.svg)](https://github.com/jlblancoc/nanoflann/actions/workflows/ci-linux.yml)
+[![CI Check clang-format](https://github.com/jlblancoc/nanoflann/actions/workflows/check-clang-format.yml/badge.svg)](https://github.com/jlblancoc/nanoflann/actions/workflows/check-clang-format.yml)
+[![CircleCI](https://circleci.com/gh/jlblancoc/nanoflann/tree/master.svg?style=svg)](https://circleci.com/gh/jlblancoc/nanoflann/tree/master)
+[![Windows build status](https://ci.appveyor.com/api/projects/status/h8k1apfogxyqhskd/branch/master?svg=true)](https://ci.appveyor.com/project/jlblancoc/nanoflann/branch/master)
+[![codecov](https://codecov.io/gh/jlblancoc/nanoflann/graph/badge.svg?token=yOKq5lpizE)](https://codecov.io/gh/jlblancoc/nanoflann)
+
+
+| Distro | Build dev | Build releases | Stable version |
+| ---    | ---       | ---            | ---            |
+| ROS 2 Humble (u22.04) | [![Build Status](https://build.ros2.org/job/Hdev__nanoflann__ubuntu_jammy_amd64/badge/icon)](https://build.ros2.org/job/Hdev__nanoflann__ubuntu_jammy_amd64/) | [![Build Status](https://build.ros2.org/job/Hbin_uJ64__nanoflann__ubuntu_jammy_amd64__binary/badge/icon)](https://build.ros2.org/job/Hbin_uJ64__nanoflann__ubuntu_jammy_amd64__binary/)  <br/> [![Build Status](https://build.ros2.org/job/Hbin_ujv8_uJv8__nanoflann__ubuntu_jammy_arm64__binary/badge/icon)](https://build.ros2.org/job/Hbin_ujv8_uJv8__nanoflann__ubuntu_jammy_arm64__binary/) | [![Version](https://img.shields.io/ros/v/humble/nanoflann)](https://index.ros.org/?search_packages=true&pkgs=nanoflann) |
+| ROS 2 Jazzy (u24.04) | [![Build Status](https://build.ros2.org/job/Jdev__nanoflann__ubuntu_noble_amd64/badge/icon)](https://build.ros2.org/job/Jdev__nanoflann__ubuntu_noble_amd64/) | [![Build Status](https://build.ros2.org/job/Jbin_uN64__nanoflann__ubuntu_noble_amd64__binary/badge/icon)](https://build.ros2.org/job/Jbin_uN64__nanoflann__ubuntu_noble_amd64__binary/) <br/> [![Build Status](https://build.ros2.org/job/Jbin_unv8_uNv8__nanoflann__ubuntu_noble_arm64__binary/badge/icon)](https://build.ros2.org/job/Jbin_unv8_uNv8__nanoflann__ubuntu_noble_arm64__binary/) | [![Version](https://img.shields.io/ros/v/jazzy/nanoflann)](https://index.ros.org/?search_packages=true&pkgs=nanoflann) |
+| ROS 2 Kilted (u24.04) | [![Build Status](https://build.ros2.org/job/Kdev__nanoflann__ubuntu_noble_amd64/badge/icon)](https://build.ros2.org/job/Kdev__nanoflann__ubuntu_noble_amd64/) | [![Build Status](https://build.ros2.org/job/Kbin_uN64__nanoflann__ubuntu_noble_amd64__binary/badge/icon)](https://build.ros2.org/job/Kbin_uN64__nanoflann__ubuntu_noble_amd64__binary/) <br/> [![Build Status](https://build.ros2.org/job/Kbin_unv8_uNv8__nanoflann__ubuntu_noble_arm64__binary/badge/icon)](https://build.ros2.org/job/Kbin_unv8_uNv8__nanoflann__ubuntu_noble_arm64__binary/) | [![Version](https://img.shields.io/ros/v/kilted/nanoflann)](https://index.ros.org/?search_packages=true&pkgs=nanoflann) |
+| ROS 2 Lyrical (u26.04) | [![Build Status](https://build.ros2.org/job/Ldev__nanoflann__ubuntu_resolute_amd64/badge/icon)](https://build.ros2.org/job/Ldev__nanoflann__ubuntu_resolute_amd64/) | [![Build Status](https://build.ros2.org/job/Lbin_uR64__nanoflann__ubuntu_resolute_amd64__binary/badge/icon)](https://build.ros2.org/job/Lbin_uR64__nanoflann__ubuntu_resolute_amd64__binary/) <br/> [![Build Status](https://build.ros2.org/job/Lbin_armv8_uRv8__nanoflann__ubuntu_resolute_arm64__binary/badge/icon)](https://build.ros2.org/job/Lbin_armv8_uRv8__nanoflann__ubuntu_resolute_arm64__binary/) | [![Version](https://img.shields.io/ros/v/lyrical/nanoflann)](https://index.ros.org/?search_packages=true&pkgs=nanoflann) |
+| ROS 2 Rolling (u26.04) | [![Build Status](https://build.ros2.org/job/Rdev__nanoflann__ubuntu_resolute_amd64/badge/icon)](https://build.ros2.org/job/Rdev__nanoflann__ubuntu_resolute_amd64/) | [![Build Status](https://build.ros2.org/job/Rbin_uR64__nanoflann__ubuntu_resolute_amd64__binary/badge/icon)](https://build.ros2.org/job/Rbin_uR64__nanoflann__ubuntu_resolute_amd64__binary/) <br/> [![Build Status](https://build.ros2.org/job/Rbin_unv8_uRv8__nanoflann__ubuntu_resolute_arm64__binary/badge/icon)](https://build.ros2.org/job/Rbin_unv8_uRv8__nanoflann__ubuntu_resolute_arm64__binary/) |  [![Version](https://img.shields.io/ros/v/rolling/nanoflann)](https://index.ros.org/?search_packages=true&pkgs=nanoflann) |
+
+(Binary build badges are for amd64 and arm64, respectively)
+
 ### mrpt3
 - Sources: https://github.com/MRPT/mrpt
 - Migration guide from `mrpt_ros`: https://github.com/MRPT/mrpt_ros
